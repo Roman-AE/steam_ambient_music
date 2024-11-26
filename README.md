@@ -1,8 +1,8 @@
-Ambient_steam_music is a simple shell script that provides console-like (e.g. Playstation) ambient music to Steam for Linux. Best combined with Steam Big Picture. In other words when Steam window gets in focus ambient music start playing. And when it loses focus of game started music stop playing.
+Steam_ambient_music is a simple shell script that provides console-like (e.g. Playstation) ambient music to Steam for Linux. Best combined with Steam Big Picture. In other words when Steam window gets in focus ambient music start playing. And when it loses focus of game started music stop playing.
 
 ## Installation
 
-Ambient_steam_music doesn't need any installation. Just copy this script somewhere on your PC and start it.
+Steam_ambient_music doesn't need any installation. Just copy this script somewhere on your PC and start it.
 This script was tested on desktop Archlinux with GNOME on Wayland (it uses GNOME shell extension that provides info about window in focus).
 
 #### Dependencies
@@ -35,6 +35,6 @@ If you encounter an error that hasn't been reported yet, don't be afraid to open
 
 ## Disclaimer
 
-ambient_steam_music is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Valve Corporation.
+Steam_ambient_music is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Valve Corporation.
 
 All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
